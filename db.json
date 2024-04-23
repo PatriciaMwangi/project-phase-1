@@ -1,0 +1,65 @@
+{
+    "dogs":[
+    {
+"id":1,
+"breed":"Affenpinscher",
+"origin":"Germany",
+"link":"https://en.wikipedia.org/wiki/Affenpinscher",
+"img":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Affenpinscher.jpg/220px-Affenpinscher.jpg",
+"prices":"Kshs. 50,000"
+},
+{
+    "id":2,
+    "breed":"Afghan Hound",
+    "origin":"Afghanistan",
+    "link":"https://en.wikipedia.org/wiki/Afghan_Hound",
+    "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Afghan_dog_-_cropped.jpg/220px-Afghan_dog_-_cropped.jpg",
+    "prices":"Kshs.80,000"
+},
+{
+
+
+"id":3,
+"breed":"Africanis",
+"origin":"Southern Africa",
+"link":"https://en.wikipedia.org/wiki/Africanis",
+"img":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Africanis_%281%29.jpg/220px-Africanis_%281%29.jpg",
+"prices":"Kshs.70,000"
+},
+{
+"id":4,
+"breed":"Aidi",
+"origin":"Morocco",
+"link":"https://en.wikipedia.org/wiki/Aidi",
+"img":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Aidi.jpg/220px-Aidi.jpg",
+"prices":"Kshs.49,000"
+},
+{
+    "id":5,
+    "breed":"Airedale Terrier",
+    "origin":"England",
+    "link":"https://en.wikipedia.org/wiki/Airedale_Terrier",
+    "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Airedale_Terrier.jpg/220px-Airedale_Terrier.jpg",
+"prices":"Kshs. 63,000" 
+},
+
+{
+    "id":6,
+    "breed":"Akbash",
+    "origin":"Turkey",
+    "link":"https://en.wikipedia.org/wiki/Akbash",
+    "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Akbash_Dog_male_2016.jpg/220px-Akbash_Dog_male_2016.jpg",
+"prices":"Kshs.82,000"
+},
+{
+    
+    "id":7,
+    "breed":"Akita",
+    "origin":"Japan",
+    "link":"https://en.wikipedia.org/wiki/Akita_(dog)",
+    "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/American-akita.jpg/220px-American-akita.jpg",
+"prices":"Kshs.64,000"
+}
+
+]
+}
